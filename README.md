@@ -3,8 +3,12 @@ Coverter
 
 Make sure you have the following installed :
 
+
 tkinter
+
+
 forex-python
+
 Pillow
 
 
